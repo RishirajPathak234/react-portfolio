@@ -8,6 +8,7 @@ import reactLogo from '../assets/React.png'
 import reduxLogo from '../assets/Redux.png'
 import tailwind from '../assets/Tailwind Css.png'
 import csslogo from '../assets/CSS.png'
+import htmllogo from '../assets/Html.png'
 import gitlogo from '../assets/github.png'
 
 const Hero = () => {
