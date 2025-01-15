@@ -1,9 +1,6 @@
 import React, { useState } from 'react'
-import imagename from '../assets/image.png'
 import { Menu, X } from 'lucide-react'
 import menulogo from '../assets/menu.gif'
-import anilogo from '../assets/animenu.gif'
-import namelogo from '../assets/namelogo.png'
 import namelogo2 from '../assets/namelogo2.png'
 
 

@@ -1,5 +1,4 @@
 import React from 'react'
-import MernStack from '../assets/mernstack.png'
 import Html from '../assets/Html.png'
 import Css from '../assets/CSS.png'
 import Javascript from '../assets/JS.png'
@@ -10,7 +9,6 @@ import cpplogo from '../assets/c-.png'
 import pythonlogo from '../assets/python.png'
 import dblogo from '../assets/firebase.png'
 import salesforcelogo from '../assets/salesforce.png'
-import gitlogo from '../assets/github1.png'
 <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'></link>
 
 const About = () => {
