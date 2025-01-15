@@ -1,4 +1,5 @@
 import React from 'react'
+import Github from '../assets/github.png'
 
 const Cards = ({ item }) => {
     return (
